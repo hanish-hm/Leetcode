@@ -1,36 +1,32 @@
 class Solution {
 private:
-    void bfs(int startRow, int startCol, int initialColor, int newColor, vector<vector<int>>& image) {
-        image[startRow][startCol] = newColor;
-        queue<pair<int, int>> q;
-        q.push({startRow, startCol});
-        int directionRow[] = {-1, 0, 1, 0};
-        int directionCol[] = {0, 1, 0, -1};
-        int numRows = image.size();
-        int numCols = image[0].size();
-        
-        while (!q.empty()) {
+    void bfs(int sr,int sc,int curr,int color,vector<vector<int>>& image){
+        image[sr][sc] = color;
+        queue<pair<int,int>> q;
+        q.push({sr,sc});
+        int arr1[] = {-1,0,1,0};
+        int arr2[] = {0,1,0,-1};
+        int n = image.size();
+        int m = image[0].size();
+        while(!q.empty()){
             int row = q.front().first;
             int col = q.front().second;
             q.pop();
-            
-            for (int i = 0; i < 4; i++) {
-                int newRow = row + directionRow[i];
-                int newCol = col + directionCol[i];
-                
-                if (newRow >= 0 && newRow < numRows && newCol >= 0 && newCol < numCols && image[newRow][newCol] == initialColor) {
-                    image[newRow][newCol] = newColor;
-                    q.push({newRow, newCol});
+            for(int i=0;i<4;i++){
+                int nr = row + arr1[i];
+                int nc = col + arr2[i];
+                if(nr>=0 && nr<n && nc>=0 && nc<m && image[nr][nc] == curr){
+                    image[nr][nc] = color;
+                    q.push({nr,nc});
                 }
             }
         }
     }
-
 public:
-    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int newColor) {
-        int initialColor = image[sr][sc];
-        if (initialColor != newColor) {
-            bfs(sr, sc, initialColor, newColor, image);
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+        int currcolor = image[sr][sc];
+        if(currcolor != color){
+            bfs(sr,sc,currcolor,color,image);
         }
         return image;
     }
