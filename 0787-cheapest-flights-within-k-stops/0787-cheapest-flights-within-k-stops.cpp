@@ -3,10 +3,10 @@ public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
         vector<pair<int,int>> adj[n];
         for(auto it: flights){
-            int x = it[0];
+            int src = it[0];
             int dest = it[1];
             int val = it[2];
-            adj[x].push_back({dest,val});
+            adj[src].push_back({dest,val});
         }
         queue<pair<int,pair<int,int>>> q;
         q.push({0,{src,0}});
@@ -21,7 +21,7 @@ public:
             for(auto it:adj[node]){
                 int adjnode = it.first;
                 int edgewt = it.second;
-                if(val+edgewt<dist[adjnode] && stops<=k){
+                if(val+edgewt<dist[adjnode]){
                     dist[adjnode] = edgewt+val;
                     q.push({stops+1,{adjnode,val+edgewt}});
                 }
