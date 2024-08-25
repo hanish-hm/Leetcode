@@ -10,17 +10,21 @@
  * };
  */
 class Solution {
-public:
-    void post(TreeNode* root,vector<int> &ans){
-    if(root == NULL){
-        return;
+private:
+    void post(TreeNode* root,vector<int>& ans){
+        if(root == NULL){
+            return;
+        }
+        post(root->left,ans);
+        post(root->right,ans);
+        ans.push_back(root->val);
     }
-    post(root->left,ans);
-    post(root->right,ans);
-    ans.push_back(root->val);
-}
+public:
     vector<int> postorderTraversal(TreeNode* root) {
         vector<int> ans;
+        if(root == NULL){
+            return ans;
+        }
         post(root,ans);
         return ans;
     }
