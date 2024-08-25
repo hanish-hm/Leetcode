@@ -20,19 +20,19 @@ public:
         q.push(root);
         while(!q.empty()){
             int n = q.size();
-            vector<int> v;
+            vector<int> temp;
             for(int i=0;i<n;i++){
-                TreeNode* temp = q.front();
+                TreeNode* node = q.front();
                 q.pop();
-                v.push_back(temp->val);
-                if(temp->left){
-                    q.push(temp->left);
+                temp.push_back(node->val);
+                if(node->left){
+                    q.push(node->left);
                 }
-                if(temp->right){
-                    q.push(temp->right);
+                if(node->right){
+                    q.push(node->right);
                 }
             }
-            ans.push_back(v);
+            ans.push_back(temp);
         }
         return ans;
     }
