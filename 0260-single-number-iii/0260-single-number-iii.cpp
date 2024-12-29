@@ -1,20 +1,22 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        vector<int> ans;
-        int n = nums.size();
-        sort(nums.begin(),nums.end());
-        for(int i=0;i<n-1;i++){
-            if(nums[i]!= nums[i+1]){
-                ans.push_back(nums[i]);
+        int xornum = 0;
+        for(auto it:nums){
+            xornum = xornum^it;
+        }
+        unsigned int xornum_unsigned = static_cast<unsigned int>(xornum);
+        unsigned int rightsetbit = xornum_unsigned & -xornum_unsigned;
+        int a = 0;
+        int b = 0;
+        for(auto it:nums){
+            if(it&rightsetbit){
+                a = a^it;
             }
             else{
-                i++;
+                b = b^it;
             }
         }
-        if(nums[n-1] != nums[n-2]){
-            ans.push_back(nums[n-1]);
-        }
-        return ans;
+        return {a,b};
     }
 };
