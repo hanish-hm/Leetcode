@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/hanish-hm/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/hanish-hm/Leetcode/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/hanish-hm/Leetcode/tree/master/0200-number-of-islands) |
+| [0260-single-number-iii](https://github.com/hanish-hm/Leetcode/tree/master/0260-single-number-iii) |
 | [0721-accounts-merge](https://github.com/hanish-hm/Leetcode/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/hanish-hm/Leetcode/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hanish-hm/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/hanish-hm/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/hanish-hm/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/hanish-hm/Leetcode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/hanish-hm/Leetcode/tree/master/0260-single-number-iii) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hanish-hm/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
