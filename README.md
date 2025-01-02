@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/hanish-hm/Leetcode/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/hanish-hm/Leetcode/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hanish-hm/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1284-four-divisors](https://github.com/hanish-hm/Leetcode/tree/master/1284-four-divisors) |
 | [2035-count-sub-islands](https://github.com/hanish-hm/Leetcode/tree/master/2035-count-sub-islands) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hanish-hm/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Breadth-First Search
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/hanish-hm/Leetcode/tree/master/0263-ugly-number) |
 | [1013-fibonacci-number](https://github.com/hanish-hm/Leetcode/tree/master/1013-fibonacci-number) |
 | [1195-distribute-candies-to-people](https://github.com/hanish-hm/Leetcode/tree/master/1195-distribute-candies-to-people) |
+| [1284-four-divisors](https://github.com/hanish-hm/Leetcode/tree/master/1284-four-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hanish-hm/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Simulation
 |  |
