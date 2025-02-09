@@ -10,13 +10,13 @@ public:
     }
     
     bool lock(int num, int user) {
-        if (locked.count(num)) return false;
+        if (locked[num] != 0) return false;
         locked[num] = user;
         return true;
     }
     
     bool unlock(int num, int user) {
-        if (locked.count(num) && locked[num] == user) {
+        if (locked[num] != 0 && locked[num] == user) {
             locked.erase(num);
             return true;
         }
@@ -24,11 +24,11 @@ public:
     }
     
     bool upgrade(int num, int user) {
-        if (locked.count(num)) return false; // Node must be unlocked
+        if (locked[num] != 0) return false; // Node must be unlocked
         
         int curr = num;
         while (curr != -1) {
-            if (locked.count(curr)) return false; // No locked ancestors
+            if (locked[curr] != 0) return false; // No locked ancestors
             curr = parent[curr];
         }
         vector<int> lockeddescendants;
@@ -44,7 +44,7 @@ public:
     }
 private:
     bool haslockeddescendants(int num, vector<int> &lockeddescendants, int& lockedcount){
-        if(locked.count(num)){
+        if(locked[num] != 0){
             lockeddescendants.push_back(num);
             lockedcount++;
         }
