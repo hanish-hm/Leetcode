@@ -51,7 +51,7 @@ private:
         for(auto it:children[num]){
             haslockeddescendants(it,lockeddescendants, lockedcount);
         }
-        return lockedcount>0;
+        return lockedcount;
     }
 };
 
