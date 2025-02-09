@@ -31,26 +31,27 @@ public:
             if (locked.count(curr)) return false; // No locked ancestors
             curr = parent[curr];
         }
-        
-        bool hasLockedDescendant = false;
-        function<void(int)> dfs = [&](int node) {
-            vector<int> toUnlock;
-            for (int child : children[node]) {
-                if (locked.count(child)) {
-                    hasLockedDescendant = true;
-                    toUnlock.push_back(child);
-                }
-                dfs(child);
-            }
-            for (int node : toUnlock) locked.erase(node);
-        };
-        
-        dfs(num);
-        
-        if (!hasLockedDescendant) return false; // Must have at least one locked descendant
-        
+        vector<int> lockeddescendants;
+        int lockedcount = 0;
+        if(!haslockeddescendants(num,lockeddescendants, lockedcount)){
+            return false;
+        }
+        for(auto desc: lockeddescendants){
+            locked.erase(desc);
+        }
         locked[num] = user;
         return true;
+    }
+private:
+    bool haslockeddescendants(int num, vector<int> &lockeddescendants, int& lockedcount){
+        if(locked.count(num)){
+            lockeddescendants.push_back(num);
+            lockedcount++;
+        }
+        for(auto it:children[num]){
+            haslockeddescendants(it,lockeddescendants, lockedcount);
+        }
+        return lockedcount>0;
     }
 };
 
