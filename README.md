@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/hanish-hm/Leetcode/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/hanish-hm/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/hanish-hm/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/hanish-hm/Leetcode/tree/master/0137-single-number-ii) |
@@ -241,5 +242,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/hanish-hm/Leetcode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/hanish-hm/Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
