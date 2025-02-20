@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/hanish-hm/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hanish-hm/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1284-four-divisors](https://github.com/hanish-hm/Leetcode/tree/master/1284-four-divisors) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hanish-hm/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hanish-hm/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2035-count-sub-islands](https://github.com/hanish-hm/Leetcode/tree/master/2035-count-sub-islands) |
 | [2104-operations-on-tree](https://github.com/hanish-hm/Leetcode/tree/master/2104-operations-on-tree) |
@@ -264,5 +265,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/hanish-hm/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/hanish-hm/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/hanish-hm/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hanish-hm/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hanish-hm/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
