@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/hanish-hm/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hanish-hm/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hanish-hm/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/hanish-hm/Leetcode/tree/master/0036-valid-sudoku) |
 | [0078-subsets](https://github.com/hanish-hm/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hanish-hm/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/hanish-hm/Leetcode/tree/master/0136-single-number) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/hanish-hm/Leetcode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/hanish-hm/Leetcode/tree/master/0200-number-of-islands) |
 | [0854-making-a-large-island](https://github.com/hanish-hm/Leetcode/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hanish-hm/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/hanish-hm/Leetcode/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/hanish-hm/Leetcode/tree/master/0202-happy-number) |
 | [0721-accounts-merge](https://github.com/hanish-hm/Leetcode/tree/master/0721-accounts-merge) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/hanish-hm/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
