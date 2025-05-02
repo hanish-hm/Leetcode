@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hanish-hm/Leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/hanish-hm/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hanish-hm/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/hanish-hm/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/hanish-hm/Leetcode/tree/master/0338-counting-bits) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/hanish-hm/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/hanish-hm/Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/hanish-hm/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/hanish-hm/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/hanish-hm/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/hanish-hm/Leetcode/tree/master/0231-power-of-two) |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/hanish-hm/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/hanish-hm/Leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
