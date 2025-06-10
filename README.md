@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/hanish-hm/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/hanish-hm/Leetcode/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/hanish-hm/Leetcode/tree/master/0260-single-number-iii) |
+| [0435-non-overlapping-intervals](https://github.com/hanish-hm/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hanish-hm/Leetcode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hanish-hm/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0721-accounts-merge](https://github.com/hanish-hm/Leetcode/tree/master/0721-accounts-merge) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/hanish-hm/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hanish-hm/Leetcode/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/hanish-hm/Leetcode/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hanish-hm/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/hanish-hm/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/hanish-hm/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/hanish-hm/Leetcode/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/hanish-hm/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/hanish-hm/Leetcode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -299,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/hanish-hm/Leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/hanish-hm/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hanish-hm/Leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/hanish-hm/Leetcode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
