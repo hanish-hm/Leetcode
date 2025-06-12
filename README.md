@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hanish-hm/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hanish-hm/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/hanish-hm/Leetcode/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/hanish-hm/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hanish-hm/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/hanish-hm/Leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/hanish-hm/Leetcode/tree/master/0078-subsets) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hanish-hm/Leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/hanish-hm/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hanish-hm/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/hanish-hm/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hanish-hm/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/hanish-hm/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hanish-hm/Leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/hanish-hm/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hanish-hm/Leetcode/tree/master/0455-assign-cookies) |
