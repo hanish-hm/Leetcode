@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/hanish-hm/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/hanish-hm/Leetcode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/hanish-hm/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0678-valid-parenthesis-string](https://github.com/hanish-hm/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/hanish-hm/Leetcode/tree/master/0721-accounts-merge) |
 ## Sorting
 |  |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/hanish-hm/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hanish-hm/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hanish-hm/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/hanish-hm/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hanish-hm/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Tree
 |  |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/hanish-hm/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/hanish-hm/Leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/hanish-hm/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/hanish-hm/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/hanish-hm/Leetcode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -308,5 +311,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/hanish-hm/Leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/hanish-hm/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hanish-hm/Leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/hanish-hm/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/hanish-hm/Leetcode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
