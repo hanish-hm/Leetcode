@@ -20,7 +20,28 @@ public:
     }
     bool checkValidString(string s) {
         int n = s.size();
-        vector<vector<int>> dp(n + 1, vector<int>(n + 1, -1));
-        return check(s,0,0,dp);
+        int mi = 0;
+        int ma = 0;
+        for(int i=0;i<n;i++){
+            if(s[i] == '('){
+                mi += 1;
+                ma += 1;
+            }
+            else if(s[i] == ')'){
+                mi -= 1;
+                ma -= 1;
+            }
+            else{
+                mi -= 1;
+                ma += 1;
+            }
+            if(ma<0){
+                return false;
+            }
+            if(mi<0){
+                mi = 0;
+            }
+        }
+        return mi==0;
     }
 };
