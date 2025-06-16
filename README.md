@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/hanish-hm/Leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/hanish-hm/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hanish-hm/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/hanish-hm/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/hanish-hm/Leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/hanish-hm/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hanish-hm/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/hanish-hm/Leetcode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/hanish-hm/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hanish-hm/Leetcode/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/hanish-hm/Leetcode/tree/master/0721-accounts-merge) |
