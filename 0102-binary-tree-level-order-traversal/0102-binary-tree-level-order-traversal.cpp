@@ -20,11 +20,11 @@ public:
         q.push(root);
         while(!q.empty()){
             int n = q.size();
-            vector<int> temp;
+            vector<int> x;
             for(int i=0;i<n;i++){
                 TreeNode* node = q.front();
                 q.pop();
-                temp.push_back(node->val);
+                x.push_back(node->val);
                 if(node->left){
                     q.push(node->left);
                 }
@@ -32,7 +32,7 @@ public:
                     q.push(node->right);
                 }
             }
-            ans.push_back(temp);
+            ans.push_back(x);
         }
         return ans;
     }
