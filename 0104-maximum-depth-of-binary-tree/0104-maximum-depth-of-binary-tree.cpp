@@ -11,15 +11,20 @@
  */
 class Solution {
 public:
+int find(TreeNode* root,int count){
+    if(root == NULL){
+        return count;
+    }
+    int a = find(root->left,count+1);
+    int b = find(root->right,count+1);
+    return max(a,b);
+}
     int maxDepth(TreeNode* root) {
-
-        if(root == NULL){
+        if(root == NULL ){
             return 0;
         }
-        
-        int leftheight = maxDepth(root->left);
-        int rightheight = maxDepth(root->right);
-
-        return max(leftheight,rightheight)+1;
+        int count = 1;
+        int ans = find(root,count);
+        return ans-1;
     }
 };
