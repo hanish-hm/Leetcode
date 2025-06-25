@@ -15,6 +15,21 @@ public:
         if(root == NULL){
             return 0;
         }
+        int lh = 0;
+        int rh = 0;
+        TreeNode* lft = root->left;
+        TreeNode* ryt = root->right;
+        while(lft){
+            lh++;
+            lft = lft->left;
+        }
+        while(ryt){
+            rh++;
+            ryt = ryt->right;
+        }
+        if(lh == rh){
+            return (1<<lh+1)-1;
+        }
         return 1+countNodes(root->left)+countNodes(root->right);
     }
 };
