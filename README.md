@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/hanish-hm/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/hanish-hm/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/hanish-hm/Leetcode/tree/master/0263-ugly-number) |
+| [0441-arranging-coins](https://github.com/hanish-hm/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/hanish-hm/Leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/hanish-hm/Leetcode/tree/master/1013-fibonacci-number) |
 | [1195-distribute-candies-to-people](https://github.com/hanish-hm/Leetcode/tree/master/1195-distribute-candies-to-people) |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/hanish-hm/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/hanish-hm/Leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/hanish-hm/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0441-arranging-coins](https://github.com/hanish-hm/Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hanish-hm/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/hanish-hm/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/hanish-hm/Leetcode/tree/master/0907-koko-eating-bananas) |
