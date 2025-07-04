@@ -11,24 +11,24 @@
  */
 class Solution {
 public:
-    TreeNode* func(vector<int>& preorder,int prestart, int preend, vector<int>& inorder, int instart, int inend, unordered_map<int,int>& mp){
+    TreeNode* func(vector<int>& preorder,int prestart, int preend, vector<int>& inorder,int instart,int inend,unordered_map<int,int>& mp){
         if(prestart>preend || instart>inend){
             return NULL;
         }
-        TreeNode* root = new TreeNode(preorder[prestart]);
-        int betin = mp[root->val];
-        int left  = betin-instart;
-        root->left = func(preorder,prestart+1,prestart+left,inorder,instart,betin-1,mp);
-        root->right = func(preorder,prestart+left+1,preend,inorder,betin+1,inend,mp);
-        return root;
+        TreeNode* node = new TreeNode(preorder[prestart]);
+        int prepositionininorder = mp[node->val];
+        int left = prepositionininorder - instart;
+        node->left = func(preorder,prestart+1,prestart+left,inorder,instart,prepositionininorder-1,mp);
+        node->right = func(preorder,prestart+left+1,preend,inorder,prepositionininorder+1,inend,mp);
+        return node;
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int n= inorder.size()-1;
+        int n = inorder.size();
         unordered_map<int,int> mp;
-        for(int i=0;i<inorder.size();i++){
+        for(int i=0;i<n;i++){
             mp[inorder[i]] = i;
         }
-        TreeNode* root = func(preorder,0,n,inorder,0,n,mp);
+        TreeNode* root = func(preorder,0,n-1,inorder,0,n-1,mp);
         return root;
     }
 };
