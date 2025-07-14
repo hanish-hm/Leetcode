@@ -11,27 +11,32 @@
  */
 class Solution {
 public:
-    void recursion(TreeNode* root,int x,vector<int>& ans){
-        if(root == NULL){
+    void func(TreeNode* root,map<int,int>& mp){
+        if(root==NULL){
             return;
         }
-        if(x == ans.size()){
-            ans.push_back(root->val);
-        }
-        if(root->right){
-            recursion(root->right,x+1,ans);
-        }
-        if(root->left){
-            recursion(root->left,x+1,ans);
+        queue<pair<TreeNode*,int>> q;
+        q.push({root,0});
+        while(!q.empty()){
+            TreeNode* node = q.front().first;
+            int x = q.front().second;
+            q.pop();
+            mp[x] = node->val;
+            if(node->left){
+                q.push({node->left,x+1});
+            }
+            if(node->right){
+                q.push({node->right,x+1});
+            }
         }
     }
-
     vector<int> rightSideView(TreeNode* root) {
+        map<int,int> mp;
+        func(root,mp);
         vector<int> ans;
-        if(root==NULL){
-            return ans;
+        for(auto it:mp){
+            ans.push_back(it.second);
         }
-        recursion(root,0,ans);
         return ans;
     }
 };
