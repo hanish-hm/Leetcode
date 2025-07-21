@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/hanish-hm/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/hanish-hm/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/hanish-hm/Leetcode/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/hanish-hm/Leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/hanish-hm/Leetcode/tree/master/0441-arranging-coins) |
 | [0477-total-hamming-distance](https://github.com/hanish-hm/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0507-perfect-number](https://github.com/hanish-hm/Leetcode/tree/master/0507-perfect-number) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0050-powx-n](https://github.com/hanish-hm/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/hanish-hm/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/hanish-hm/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/hanish-hm/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/hanish-hm/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/hanish-hm/Leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/hanish-hm/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/hanish-hm/Leetcode/tree/master/0342-power-of-four) |
 | [0477-total-hamming-distance](https://github.com/hanish-hm/Leetcode/tree/master/0477-total-hamming-distance) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hanish-hm/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
