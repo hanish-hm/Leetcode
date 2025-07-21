@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/hanish-hm/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/hanish-hm/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/hanish-hm/Leetcode/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/hanish-hm/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hanish-hm/Leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/hanish-hm/Leetcode/tree/master/0441-arranging-coins) |
 | [0477-total-hamming-distance](https://github.com/hanish-hm/Leetcode/tree/master/0477-total-hamming-distance) |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0050-powx-n](https://github.com/hanish-hm/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/hanish-hm/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/hanish-hm/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hanish-hm/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/hanish-hm/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
