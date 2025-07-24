@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/hanish-hm/Leetcode/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/hanish-hm/Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/hanish-hm/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hanish-hm/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/hanish-hm/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hanish-hm/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1284-four-divisors](https://github.com/hanish-hm/Leetcode/tree/master/1284-four-divisors) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/hanish-hm/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/hanish-hm/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hanish-hm/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hanish-hm/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/hanish-hm/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/hanish-hm/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hanish-hm/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hanish-hm/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-operations-on-tree](https://github.com/hanish-hm/Leetcode/tree/master/2104-operations-on-tree) |
 ## Binary Tree
 |  |
@@ -245,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/hanish-hm/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/hanish-hm/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hanish-hm/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hanish-hm/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -400,4 +404,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/hanish-hm/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hanish-hm/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hanish-hm/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hanish-hm/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hanish-hm/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
