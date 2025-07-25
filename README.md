@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/hanish-hm/Leetcode/tree/master/0441-arranging-coins) |
 | [0477-total-hamming-distance](https://github.com/hanish-hm/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0507-perfect-number](https://github.com/hanish-hm/Leetcode/tree/master/0507-perfect-number) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/hanish-hm/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/hanish-hm/Leetcode/tree/master/1013-fibonacci-number) |
 | [1195-distribute-candies-to-people](https://github.com/hanish-hm/Leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1284-four-divisors](https://github.com/hanish-hm/Leetcode/tree/master/1284-four-divisors) |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/hanish-hm/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/hanish-hm/Leetcode/tree/master/0342-power-of-four) |
 | [0477-total-hamming-distance](https://github.com/hanish-hm/Leetcode/tree/master/0477-total-hamming-distance) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/hanish-hm/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hanish-hm/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
