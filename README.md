@@ -289,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/hanish-hm/Leetcode/tree/master/1013-fibonacci-number) |
 | [1195-distribute-candies-to-people](https://github.com/hanish-hm/Leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1284-four-divisors](https://github.com/hanish-hm/Leetcode/tree/master/1284-four-divisors) |
+| [2050-count-good-numbers](https://github.com/hanish-hm/Leetcode/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hanish-hm/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3373-maximum-prime-difference](https://github.com/hanish-hm/Leetcode/tree/master/3373-maximum-prime-difference) |
 ## Simulation
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/hanish-hm/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hanish-hm/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/hanish-hm/Leetcode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/hanish-hm/Leetcode/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
