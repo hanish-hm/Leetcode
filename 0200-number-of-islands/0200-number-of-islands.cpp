@@ -1,39 +1,40 @@
 class Solution {
 private:
-    void bfs(vector<vector<int>>& vis,int x,int y,vector<vector<char>>& grid,int n,int m){
+    void bfs(vector<vector<char>>& grid,vector<vector<bool>>& visitedland,int i,int j,int rows,int cols){
+        visitedland[i][j] = true;
+        int ar1[] = {-1,0,1,0};
+        int ar2[] = {0,-1,0,1};
         queue<pair<int,int>> q;
-        q.push({x,y});
-        vis[x][y] = 1;
-        int arr1[] = {-1,0,1,0};
-        int arr2[] = {0,1,0,-1};
+        q.push({i,j});
         while(!q.empty()){
-            int a = q.front().first;
-            int b = q.front().second;
+            int r = q.front().first;
+            int c = q.front().second;
             q.pop();
             for(int i=0;i<4;i++){
-                int nx = a+arr1[i];
-                int ny = b+arr2[i];
-                if(nx<n && nx>=0 && ny<m && ny>=0 && !vis[nx][ny] && grid[nx][ny] == '1'){
-                    vis[nx][ny] = 1;
-                    q.push({nx,ny});
+                int newr = r + ar1[i];
+                int newc = c + ar2[i];
+                if(newr>=0&&newr<rows&&newc>=0&&newc<cols&&!visitedland[newr][newc]&&grid[newr][newc]=='1'){
+                    q.push({newr,newc});
+                    visitedland[newr][newc] = true;
                 }
             }
         }
+        return;
     }
 public:
     int numIslands(vector<vector<char>>& grid) {
-        int n= grid.size();
-        int m = grid[0].size();
-        vector<vector<int>> vis(n, vector<int>(m, 0));
-        int count = 0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(!vis[i][j] && grid[i][j]=='1'){
-                    count++;
-                    bfs(vis,i,j,grid,n,m);
+        int rows = grid.size();
+        int cols = grid[0].size();
+        int islands = 0;
+        vector<vector<bool>> visitedland(rows,vector<bool>(cols,false));
+        for(int i=0;i<rows;i++){
+            for(int j=0;j<cols;j++){
+                if(grid[i][j] == '1' && !visitedland[i][j]){
+                    bfs(grid,visitedland,i,j,rows,cols);
+                    islands++;
                 }
             }
         }
-        return count;
+        return islands;
     }
 };
