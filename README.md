@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hanish-hm/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hanish-hm/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hanish-hm/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/hanish-hm/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/hanish-hm/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/hanish-hm/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/hanish-hm/Leetcode/tree/master/0137-single-number-ii) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/hanish-hm/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/hanish-hm/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/hanish-hm/Leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/hanish-hm/Leetcode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hanish-hm/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/hanish-hm/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/hanish-hm/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
