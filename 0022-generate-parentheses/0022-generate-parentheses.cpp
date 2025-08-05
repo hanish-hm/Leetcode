@@ -1,20 +1,22 @@
 class Solution {
 public:
-    void generate(int n,int open,int close, vector<string>& ans,string s){
-        if(open==n && close == n){
-            ans.push_back(s);
+    void func(int n,int index,vector<string>& ans,int count,int mxcount,string str){
+        if(mxcount>n){
             return;
         }
-        if(open<n){
-            generate(n,open+1,close,ans,s+'(');
+        if(index>=n*2){
+            ans.push_back(str);
+            return;
         }
-        if(close<open){
-            generate(n,open,close+1,ans,s+')');
+        func(n,index+1,ans,count+1,mxcount+1,str+"(");
+        if(count>0){
+            func(n,index+1,ans,count-1,mxcount,str+")");
         }
+        return;
     }
     vector<string> generateParenthesis(int n) {
         vector<string> ans;
-        generate(n,0,0,ans,"");
+        func(n,0,ans,0,0,"");
         return ans;
     }
 };
