@@ -9,9 +9,7 @@ public:
         func(nums,index+1,st,x);
         x.pop_back();
         int nxt = index+1;
-        while(nxt<nums.size() && nums[nxt]==nums[index]){
-            nxt++;
-        }
+        
         func(nums,nxt,st,x);
         return;
     }
@@ -24,7 +22,6 @@ public:
         for(auto it:st){
             ans.push_back(it);
         }
-        
         return ans;
     }
 };
