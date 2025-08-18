@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void fn(vector<vector<int>>& ans,int k,int n,vector<int>& x,int sum,int index){
+    void fn(vector<vector<int>>& ans,int k,int n,vector<int> x,int sum,int index){
         if(sum > n || x.size()>k){
             return;
         }
