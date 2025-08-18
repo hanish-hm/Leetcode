@@ -16,8 +16,7 @@ public:
     }
     vector<vector<int>> combinationSum3(int k, int n) {
         vector<vector<int>> ans;
-        vector<int> x;
-        fn(ans,k,n,x,0,1);
+        fn(ans,k,n,{},0,1);
         return ans;
     }
 };
