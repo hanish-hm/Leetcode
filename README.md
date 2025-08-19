@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2104-operations-on-tree](https://github.com/hanish-hm/Leetcode/tree/master/2104-operations-on-tree) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hanish-hm/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/hanish-hm/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/hanish-hm/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/hanish-hm/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3373-maximum-prime-difference](https://github.com/hanish-hm/Leetcode/tree/master/3373-maximum-prime-difference) |
 ## Breadth-First Search
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/hanish-hm/Leetcode/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/hanish-hm/Leetcode/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hanish-hm/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/hanish-hm/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3373-maximum-prime-difference](https://github.com/hanish-hm/Leetcode/tree/master/3373-maximum-prime-difference) |
 ## Simulation
 |  |
