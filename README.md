@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2432-number-of-zero-filled-subarrays](https://github.com/hanish-hm/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/hanish-hm/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3373-maximum-prime-difference](https://github.com/hanish-hm/Leetcode/tree/master/3373-maximum-prime-difference) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hanish-hm/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hanish-hm/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hanish-hm/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2035-count-sub-islands](https://github.com/hanish-hm/Leetcode/tree/master/2035-count-sub-islands) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hanish-hm/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Depth-First Search
 |  |
 | ------- |
