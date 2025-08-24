@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hanish-hm/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hanish-hm/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/hanish-hm/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hanish-hm/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hanish-hm/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hanish-hm/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/hanish-hm/Leetcode/tree/master/0045-jump-game-ii) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hanish-hm/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hanish-hm/Leetcode/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/hanish-hm/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/hanish-hm/Leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/hanish-hm/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/hanish-hm/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hanish-hm/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/hanish-hm/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hanish-hm/Leetcode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hanish-hm/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hanish-hm/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0202-happy-number](https://github.com/hanish-hm/Leetcode/tree/master/0202-happy-number) |
@@ -372,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hanish-hm/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/hanish-hm/Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/hanish-hm/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hanish-hm/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hanish-hm/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/hanish-hm/Leetcode/tree/master/0046-permutations) |
