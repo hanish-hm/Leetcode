@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/hanish-hm/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hanish-hm/Leetcode/tree/master/0455-assign-cookies) |
 | [0477-total-hamming-distance](https://github.com/hanish-hm/Leetcode/tree/master/0477-total-hamming-distance) |
+| [0498-diagonal-traverse](https://github.com/hanish-hm/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hanish-hm/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0721-accounts-merge](https://github.com/hanish-hm/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/hanish-hm/Leetcode/tree/master/0733-flood-fill) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/hanish-hm/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/hanish-hm/Leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/hanish-hm/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0498-diagonal-traverse](https://github.com/hanish-hm/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/hanish-hm/Leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/hanish-hm/Leetcode/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hanish-hm/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/hanish-hm/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1195-distribute-candies-to-people](https://github.com/hanish-hm/Leetcode/tree/master/1195-distribute-candies-to-people) |
 ## Recursion
 |  |
