@@ -1,24 +1,33 @@
 class Solution {
 public:
-    bool fn(){
-        return true;
+    bool fn(int n,int k,string& str,int& count,vector<int>& vis){
+        if(str.size()==n){
+            count++;
+            if(count == k){
+                return true;
+            }
+            else{
+                return false;
+            }
+        }
+        for(int i=1;i<=n;i++){
+            if(!vis[i]){
+                vis[i] = 1;
+                str+=to_string(i);
+                if(fn(n,k,str,count,vis)){
+                    return true;
+                }
+                str.pop_back();
+                vis[i] = 0;
+            }
+        }
+        return false;
     }
     string getPermutation(int n, int k) {
-        vector<int> numbers;
-        vector<int> fact(n+1, 1);
-        for (int i = 1; i <= n; i++) {
-            numbers.push_back(i);
-            fact[i] = fact[i-1] * i;
-        }
-
-        k--; // zero-based index
-        string ans = "";
-        for (int i = n; i >= 1; i--) {
-            int idx = k / fact[i-1];
-            ans += to_string(numbers[idx]);
-            numbers.erase(numbers.begin() + idx);
-            k %= fact[i-1];
-        }
-        return ans;
+        string str = "";
+        vector<int> vis(n+1,0);
+        int count = 0;
+        fn(n,k,str,count,vis);
+        return str;
     }
 };
