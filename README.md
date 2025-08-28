@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/hanish-hm/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3373-maximum-prime-difference](https://github.com/hanish-hm/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hanish-hm/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/hanish-hm/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1628-count-submatrices-with-all-ones](https://github.com/hanish-hm/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2035-count-sub-islands](https://github.com/hanish-hm/Leetcode/tree/master/2035-count-sub-islands) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/hanish-hm/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/hanish-hm/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/hanish-hm/Leetcode/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/hanish-hm/Leetcode/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hanish-hm/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3748-sort-matrix-by-diagonals](https://github.com/hanish-hm/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Biconnected Component
 |  |
 | ------- |
