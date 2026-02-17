@@ -6,18 +6,20 @@ public:
         map<char,int> mpp;
         for(int i=0;i<s.size();i++){
             char x = t[i];
+            if(mp[s[i]] && mp[s[i]]!=x){
+                return false;
+            }
             if(mp[s[i]]){
-                news+=mp[s[i]];
+                continue;
             }
             else{
                 if(mpp[x]){
                     return false;
                 }
-                news+=x;
                 mp[s[i]] = x;
                 mpp[x]++;
             }
         }
-        return news == t;
+        return true;
     }
 };
