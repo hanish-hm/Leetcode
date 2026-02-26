@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/hanish-hm/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hanish-hm/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1284-four-divisors](https://github.com/hanish-hm/Leetcode/tree/master/1284-four-divisors) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hanish-hm/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hanish-hm/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hanish-hm/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hanish-hm/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/hanish-hm/Leetcode/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/hanish-hm/Leetcode/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hanish-hm/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hanish-hm/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3748-sort-matrix-by-diagonals](https://github.com/hanish-hm/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Biconnected Component
 |  |
@@ -394,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0477-total-hamming-distance](https://github.com/hanish-hm/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/hanish-hm/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/hanish-hm/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hanish-hm/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hanish-hm/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
@@ -482,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hanish-hm/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/hanish-hm/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/hanish-hm/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Binary Search Tree
