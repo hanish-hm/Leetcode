@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/hanish-hm/Leetcode/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/hanish-hm/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hanish-hm/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/hanish-hm/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1903-largest-odd-number-in-string](https://github.com/hanish-hm/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/hanish-hm/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Sorting
