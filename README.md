@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/hanish-hm/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hanish-hm/Leetcode/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/hanish-hm/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0696-count-binary-substrings](https://github.com/hanish-hm/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/hanish-hm/Leetcode/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/hanish-hm/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hanish-hm/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -428,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/hanish-hm/Leetcode/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/hanish-hm/Leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hanish-hm/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0696-count-binary-substrings](https://github.com/hanish-hm/Leetcode/tree/master/0696-count-binary-substrings) |
 ## Number Theory
 |  |
 | ------- |
