@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hanish-hm/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hanish-hm/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/hanish-hm/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1980-find-unique-binary-string](https://github.com/hanish-hm/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2035-count-sub-islands](https://github.com/hanish-hm/Leetcode/tree/master/2035-count-sub-islands) |
 | [2104-operations-on-tree](https://github.com/hanish-hm/Leetcode/tree/master/2104-operations-on-tree) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hanish-hm/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/hanish-hm/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/hanish-hm/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hanish-hm/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1980-find-unique-binary-string](https://github.com/hanish-hm/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2104-operations-on-tree](https://github.com/hanish-hm/Leetcode/tree/master/2104-operations-on-tree) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/hanish-hm/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/hanish-hm/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/hanish-hm/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hanish-hm/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/hanish-hm/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1980-find-unique-binary-string](https://github.com/hanish-hm/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/hanish-hm/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Sorting
 |  |
@@ -419,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/hanish-hm/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/hanish-hm/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/hanish-hm/Leetcode/tree/master/0216-combination-sum-iii) |
+| [1980-find-unique-binary-string](https://github.com/hanish-hm/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
