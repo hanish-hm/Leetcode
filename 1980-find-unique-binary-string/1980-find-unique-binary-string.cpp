@@ -2,15 +2,16 @@ class Solution {
 public:
     string findDifferentBinaryString(vector<string>& nums) {
         int n = nums.size();
-        string ans = "";
+        unordered_set<string> st(nums.begin(), nums.end());
 
-        for(int i = 0; i < n; i++) {
-            if(nums[i][i] == '0')
-                ans += '1';
-            else
-                ans += '0';
+        for(int i = 0; i < (pow(2,n)); i++){
+            bitset<16> b(i);
+            string s = b.to_string().substr(16 - n);
+
+            if(!st.count(s))
+                return s;
         }
 
-        return ans;
+        return "";
     }
-};
+};  
