@@ -4,17 +4,16 @@ public:
         if(n == 0){
             return 1;
         }
-        bitset<32> b(n);
-        string str = b.to_string();
-        int x = 31;
+        int nn = n;
+        int i =0;
         int ans = 0;
-        int i = 0;
-        while((1<<i)<n){
-            
-            ans += (str[x]=='1')? 0: (1<<i);
-            x--;
+        while(n!=1){
+            ans+= 1<<i;
+            n = n/2;
             i++;
         }
-        return ans;
+        ans+= 1<<i;
+
+        return ans^nn;
     }
 };
