@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/hanish-hm/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/hanish-hm/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/hanish-hm/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/hanish-hm/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/hanish-hm/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/hanish-hm/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/hanish-hm/Leetcode/tree/master/0057-insert-interval) |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/hanish-hm/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/hanish-hm/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/hanish-hm/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/hanish-hm/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/hanish-hm/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/hanish-hm/Leetcode/tree/master/0070-climbing-stairs) |
@@ -432,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/hanish-hm/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hanish-hm/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hanish-hm/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/hanish-hm/Leetcode/tree/master/0190-reverse-bits) |
