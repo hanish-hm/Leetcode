@@ -1,21 +1,19 @@
+#include <bits/stdc++.h>
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        sort(intervals.begin(),intervals.end());
         int n = intervals.size();
-        vector<vector<int>> ans;
-        vector<int> merge = intervals[0];
-        for(int i=0;i<n;i++){
-            if(merge[1]<intervals[i][0]){
-                ans.push_back(merge);
-                merge = intervals[i];
+        vector<vector<int>> merged;
+        sort(intervals.begin(),intervals.end());
+        merged.push_back(intervals[0]);
+        for(int i=1;i<n;i++){
+            if(intervals[i][0]<=merged.back()[1]){
+                merged.back()[1] = max(intervals[i][1],merged.back()[1]);
             }
             else{
-                merge[0] = min(merge[0],intervals[i][0]);
-                merge[1] = max(merge[1],intervals[i][1]);
+                merged.push_back(intervals[i]);
             }
         }
-        ans.push_back(merge);
-        return ans;
+        return merged;
     }
 };
