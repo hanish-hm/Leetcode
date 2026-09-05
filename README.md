@@ -538,4 +538,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/hanish-hm/Leetcode/tree/master/0796-rotate-string) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/hanish-hm/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
